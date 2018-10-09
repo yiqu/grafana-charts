@@ -1,1 +1,1 @@
-# grafana-charts
+# grafana charts
